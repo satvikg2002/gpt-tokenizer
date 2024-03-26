@@ -1,2 +1,2 @@
-# llm-experiments
-Learning and experiments with LLM APIs and Model Fine Tuning using Python
+# gpt-tokenizer
+Building the GPT Tokenizer with reference to https://www.youtube.com/watch?v=zduSFxRajkE 
